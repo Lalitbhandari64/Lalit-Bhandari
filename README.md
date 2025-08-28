@@ -1,4 +1,4 @@
 # Lalit-Bhandari
-This My First Repository.
+This My first Git Repository.
 <b>
-Author = Lalit Bhandari
+Author-Lalit Bhandari
